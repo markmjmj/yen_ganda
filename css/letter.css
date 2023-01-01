@@ -1,0 +1,25 @@
+#pic {
+    transition: 250ms ease-in-out;
+    padding: 1em;
+    box-sizing: border-box;
+    border-radius: 1rem;
+    /* height: 35rem; */
+}
+
+#pic:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transform: translateY(-10px);
+}
+
+#backg {
+    transition: 250ms ease-in-out;
+    padding: 1em;
+    box-sizing: border-box;
+    border-radius: 1rem;
+    /* height: 35rem; */
+}
+
+#backg:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transform: translateY(-10px);
+}
